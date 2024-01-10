@@ -1,4 +1,4 @@
-# Eyemantics - Eyetracking Semantics
+# Eyemantics - Eye Tracking Semantics
 [Demo Video](https://www.youtube.com/watch?v=6OB_NjEuclw) | [Report](./docs/EyemanticsReport.pdf)
 
 This work is driven by the goal of extending the usability of advanced image segmentation methods through Mixed Reality (MR) technology for immersive and interactive user experience. We explore the integration of advanced 2D image segmentation techniques with the Magic Leap 2 (ML2) headset to achieve real-time 3D instance segmentation in mixed reality (MR) environments. The pipeline comprises image capture, gaze point analysis, image conversion, and projection, facilitated by a robust TCP communication channel between the ML2 and a processing PC. We employ the Segment Anything Model (SAM) to efficiently process segmentation tasks.
